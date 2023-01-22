@@ -1,6 +1,8 @@
 # MAGVIT-pytorch
 Implementation of MAGVIT in pytorch
 
+⚠️ WIP stage, may not work perfectly!
+
 Original paper: https://arxiv.org/pdf/2212.05199.pdf
 
 ## Usage
